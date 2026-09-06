@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103338270162",
+    "project_id": "navyshree-computer-education",
+    "storage_bucket": "navyshree-computer-education.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103338270162:android:582d91e41ccbb1efb6bc0b",
+        "android_client_info": {
+          "package_name": "com.navyshreecomputereducation.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjIWsZeUGv-MWhSEgYA53U9JboDlUJAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
